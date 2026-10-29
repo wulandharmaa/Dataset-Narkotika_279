@@ -13,7 +13,7 @@
 
 ##  Tentang Dataset
 
-**Dataset Putusan Pengadilan (Narkotika)** adalah kumpulan data historis yang memuat 50 dokumen putusan resmi dari pengadilan terkait tindak pidana penyalahgunaan dan peredaran gelap narkotika. 
+**Dataset Putusan Pengadilan (Narkotika)** adalah kumpulan data historis yang memuat 50 dokumen putusan resmi dari Pengadilan Negeri Serang terkait tindak pidana penyalahgunaan dan peredaran gelap narkotika dalam rentang tahun 2023-2026. 
 
 Dataset ini disusun untuk mempermudah peneliti, mahasiswa hukum, maupun praktisi data dalam melakukan analisis teks hukum (*Legal Tech*), ekstraksi informasi, atau studi komparatif mengenai amar putusan dan barang bukti pada kasus narkotika di Indonesia.
 
